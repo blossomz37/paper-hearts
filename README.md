@@ -1,12 +1,18 @@
 # Paper Hearts
 
+<p align="center">
+  <a href="https://blossomz37.github.io/paper-hearts/">
+    <img src="assets/hero.webp" width="480" alt="A folded pink paper heart in an envelope, surrounded by flowers and golden stars">
+  </a>
+</p>
+
 [Play Paper Hearts](https://blossomz37.github.io/paper-hearts/)
 
 A playful romance game for readers and fiction writers. Fold a paper fortune teller to discover a story spark or a fictional romantic fortune, or match characters and tropes in Matchmaker.
 
 I created this as an experiment with **Future Fiction Academy** during **Elizabeth Ann West’s Living Writer Environment Intensive**.
 
-Explore Future Fiction Academy’s courses and find out how to sign up at [futurefictionacademy.com/courses](https://futurefictionacademy.com/courses/).
+Explore [Future Fiction Academy’s courses and signup options](https://future-fiction-academy.teachable.com/a/aff_7bcwdpxg/external?affcode=1654415_sfjv5x-w) (affiliate link).
 
 — Carlo Santiago
 
